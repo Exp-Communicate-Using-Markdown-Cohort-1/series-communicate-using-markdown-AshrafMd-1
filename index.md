@@ -11,3 +11,7 @@
 a=hello
 print(hello)
 ```
+
+- [ ] Go to shopping
+- [ ] Try Burger
+- [x] Complete homework
